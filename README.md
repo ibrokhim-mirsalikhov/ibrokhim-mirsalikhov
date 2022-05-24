@@ -1,4 +1,4 @@
-# Hi there 👋 I am Ibrokhim, a computer science student
+### Hi there 👋 I am Ibrokhim, a computer science student
 - 👀 I’m interested in backend development and cybersecurity
 - 🌱 I’m currently learning Nodejs, Rest, Postman and Golang
 - 📫 You can reach me ibrokhim.mirsalikhov@gmail.com
