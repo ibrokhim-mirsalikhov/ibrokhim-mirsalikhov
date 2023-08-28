@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Ibrokhim, a computer science student
-- 👀 I’m interested in backend development and cybersecurity
-- 🌱 I’m currently learning Nodejs, Rest, Postman and Golang
-- 📫 You can reach me ibrokhim.mirsalikhov@gmail.com
+- Check out my [resume](https://github.com/ibrokhim-mirsalikhov/resume)
+- 👀 I’m interested in backend development and DevOps
+- 🌱 I’m currently learning  Docker, Kubernetes, and Jenkins
+- 📫 You can reach me at ibrokhim.mirsalikhov@gmail.com
 
 <!---
 ibrokhim-mirsalikhov/ibrokhim-mirsalikhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
