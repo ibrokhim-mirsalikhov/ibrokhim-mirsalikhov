@@ -1,7 +1,6 @@
-### Hi there 👋 I am John, a computer science student
+### Hi there 👋 I am Ibrokhim, a computer science student
 - Check out my [resume](https://github.com/ibrokhim-mirsalikhov/resume)
-- 👀 I’m interested in backend development and DevOps
-- 🌱 I’m currently learning  Docker, Kubernetes, and Jenkins
+- 👀 I’m interested in full stack development and startups
 - 📫 You can reach me at john.mirsalikhov@gmail.com
 
 <!---
